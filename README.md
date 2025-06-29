@@ -3,7 +3,7 @@ Welcome, and thank you for visiting my GitHub profile.
 Suresh Gadi  
 Electronics and Communication Engineering Student  
 Aditya University | CGPA: 9.24  
-Specialization: ASIC Design and Verification Roles in semiConductor Industry  
+Specialization: ASIC Design and Verification Roles in semiconductor Industry  
 LinkedIn: https://www.linkedin.com/in/suresh-gadi-6201a0293  
 
 ---
