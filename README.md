@@ -40,7 +40,7 @@ Password Locking System
 Designed and implemented using Verilog HDL, focusing on finite state machine (FSM) design and functional simulation.
 
 APB Protocol Interfacing  
-Developed using Verilog and SystemVerilog. The project involved protocol-level communication and verification techniques. Selected among the top 15 teams out of 120 based on performance and design quality.
+Developed using Verilog and SystemVerilog. The project involved protocol-level communication and verification techniques. Selected among the top 15 teams out of 120 teams based on performance and design quality.
 
 ---
 
