@@ -23,11 +23,11 @@ Programming Languages and HDLs:
 - SystemVerilog  
 
 EDA Tools:  
-- Xilinx Vivado  
-- ModelSim  
 - Cadence Xcelium  
 - Cadence Virtuoso  
-- Cadence Genus  
+- Cadence Genus 
+- Xilinx Vivado  
+- ModelSim   
 - Quartus Prime  
 - Proteus  
 - MATLAB  
