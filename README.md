@@ -33,36 +33,41 @@
 
 ### 📚 Academic Projects
 
-**🔐 Password Locking System**  
-## **About the Project**
-This Verilog project implements a **secure password lock system** with login control, password management, and alarm features.  
-Users can authenticate using a default or master password, and after a configurable number of failed attempts, an **alarm is triggered** to indicate a security breach.  
-It includes **password change functionality** accessible only after successful authentication.  
-A dedicated display module shows the number of remaining login attempts in real-time, enhancing system feedback and user interaction.
+---
 
-## **Features**
-- **Login system** with default/master password.
-- **Alarm trigger** after multiple failed login attempts.
-- **Password change** functionality after successful login.
-- **Real-time display** of remaining attempts.
-- Thoroughly tested using a **functional Verilog testbench**.
+### 🔐 **Password Locking System**
 
-**📡 # **APB Protocol Verification – 3-Register Slave Design**
+#### About the Project  
+This Verilog project implements a **secure password lock system** with user authentication, password management, and alarm features.  
+Users can log in using a default or master password, and after multiple failed attempts, the system triggers an **alarm** for security.  
+It supports **password changes** after successful login and includes a **real-time display** showing remaining login attempts.
 
-## **About the Project**
-This project demonstrates functional verification of an APB (Advanced Peripheral Bus) slave that contains 3 addressable registers.  
-It verifies correct protocol behavior including **IDLE**, **SETUP**, and **ACCESS** phases for both read and write transactions.  
-The testbench performs comprehensive checks on each slave register, displays all APB signals for each phase, and includes reset behavior validation.
-
-## **Features**
-- Supports **write and read** operations for all 3 slave registers.
-- Covers **IDLE**, **SETUP**, and **ACCESS** states of the APB protocol.
-- Displays all APB interface signals before and during each transaction.
-- Includes checks for **mismatches**, **invalid accesses**, and **reset behavior**.
-- Modular testbench with clear logging and debugging support.
-🏅 _Selected among the top 19 teams out of 120 based on performance and design quality._
+#### Features  
+- Secure login with default/master password  
+- Alarm trigger after multiple failed attempts  
+- Password change functionality post-authentication  
+- Real-time display of remaining login attempts  
+- Fully tested using a Verilog testbench  
 
 ---
+
+### 📡 **APB Protocol Verification – 3-Register Slave Design**
+
+#### About the Project  
+This project demonstrates the **verification of an APB (Advanced Peripheral Bus) slave** with three addressable registers.  
+It tests full protocol compliance, including **IDLE**, **SETUP**, and **ACCESS** phases for both **read and write** operations.  
+Signal-level visibility and **reset behavior** are validated to ensure robust functionality.
+
+#### Features  
+- Write and read operations for 3 slave registers  
+- Full APB protocol phase coverage: IDLE → SETUP → ACCESS  
+- Displays all APB interface signals clearly  
+- Handles invalid access, mismatch detection, and reset testing  
+- Modular testbench with structured output  
+- _Top 19 out of 120 teams based on design and performance_
+
+---
+
 
 ### 💼 Professional Interests
 
