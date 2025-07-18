@@ -60,3 +60,5 @@ Hobbies
 - Exploring developments in semiconductor and VLSI technology  
 - Reading technical articles and documentation  
 - Listening to music for relaxation and focus
+  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh2327)](https://github.com/anuraghazra/github-readme-stats)
+
