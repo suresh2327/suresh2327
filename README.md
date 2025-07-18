@@ -61,4 +61,8 @@ Hobbies
 - Reading technical articles and documentation  
 - Listening to music for relaxation and focus
   [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh2327)](https://github.com/anuraghazra/github-readme-stats)
+https://streak-stats.demolab.com/?user=<suresh2327>
+``` :contentReference[oaicite:10]{index=10}
+
+
 
