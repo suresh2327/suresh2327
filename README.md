@@ -11,8 +11,10 @@
 
 ### 👨‍🎓 About Me
 
-I'm a pre final-year undergraduate in **Electronics and Communication Engineering** at **Aditya University** with a CGPA of **9.24**.  
-Specializing in **ASIC Design and Verification**, I aim to make a meaningful impact in the semiconductor industry by combining academic excellence with real-world project experience.
+**I'm a pre-final year undergraduate in Electronics and Communication Engineering at Aditya University with a CGPA of 9.24.**  
+**My primary interest lies in Design Verification, where I focus on ensuring functional correctness and reliability of digital designs.**  
+**I aim to contribute meaningfully to the semiconductor industry by combining strong academic foundations with practical verification project experience.**
+
 
 ---
 
@@ -32,13 +34,32 @@ Specializing in **ASIC Design and Verification**, I aim to make a meaningful imp
 ### 📚 Academic Projects
 
 **🔐 Password Locking System**  
-Project Description:
-This Verilog project implements a password lock system with secure login and password management features. It allows a user to log in using a default or master password, with access control and an alarm trigger after multiple failed attempts. The system supports password change functionality upon successful authentication. A separate display module shows the remaining login attempts in real-time. The design is tested using a comprehensive testbench covering all functional scenarios.
+## **About the Project**
+This Verilog project implements a **secure password lock system** with login control, password management, and alarm features.  
+Users can authenticate using a default or master password, and after a configurable number of failed attempts, an **alarm is triggered** to indicate a security breach.  
+It includes **password change functionality** accessible only after successful authentication.  
+A dedicated display module shows the number of remaining login attempts in real-time, enhancing system feedback and user interaction.
 
+## **Features**
+- **Login system** with default/master password.
+- **Alarm trigger** after multiple failed login attempts.
+- **Password change** functionality after successful login.
+- **Real-time display** of remaining attempts.
+- Thoroughly tested using a **functional Verilog testbench**.
 
-**📡 APB Protocol Interfacing**  
-APB Protocol Verification with Custom APB Slave (3 Registers)
-This project implements and verifies an APB-compliant slave with 3 addressable registers using Verilog. The testbench covers all APB protocol phases (IDLE, SETUP, ACCESS) and validates read/write operations across all slave addresses. Features include signal-level monitoring, detailed state logging, invalid access checks, and reset behavior testing. Suitable for learning APB protocol or integrating into SoC subsystems.
+**📡 # **APB Protocol Verification – 3-Register Slave Design**
+
+## **About the Project**
+This project demonstrates functional verification of an APB (Advanced Peripheral Bus) slave that contains 3 addressable registers.  
+It verifies correct protocol behavior including **IDLE**, **SETUP**, and **ACCESS** phases for both read and write transactions.  
+The testbench performs comprehensive checks on each slave register, displays all APB signals for each phase, and includes reset behavior validation.
+
+## **Features**
+- Supports **write and read** operations for all 3 slave registers.
+- Covers **IDLE**, **SETUP**, and **ACCESS** states of the APB protocol.
+- Displays all APB interface signals before and during each transaction.
+- Includes checks for **mismatches**, **invalid accesses**, and **reset behavior**.
+- Modular testbench with clear logging and debugging support.
 🏅 _Selected among the top 19 teams out of 120 based on performance and design quality._
 
 ---
