@@ -22,9 +22,10 @@
 
 **HDLs & Programming:** Verilog, SystemVerilog, C, Python  
 **EDA Tools:** Xcelium, Genus, Virtuoso, Vivado, ModelSim, Quartus  
+
 **Focus Areas:**  
 - RTL Design & Simulation  
-- Functional Verification (basic UVM exposure)  
+- Functional Verification  
 - FPGA-based prototyping  
 - Low-power & timing-aware design
 
@@ -53,10 +54,8 @@
 
 - ASIC Front-End Design  
 - Digital Logic Verification  
-- Protocol Understanding & IP Validation  
-- CDC & Reset-Aware Verification  
-- SoC-Level Integration
-
+- Protocol Understanding & IP Validation
+  
 ---
 
 ### 📊 GitHub Stats
