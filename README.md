@@ -11,7 +11,7 @@
 
 ### 👨‍🎓 About Me
 
-I'm a final-year undergraduate in **Electronics and Communication Engineering** at **Aditya University** with a CGPA of **9.24**.  
+I'm a pre final-year undergraduate in **Electronics and Communication Engineering** at **Aditya University** with a CGPA of **9.24**.  
 Specializing in **ASIC Design and Verification**, I aim to make a meaningful impact in the semiconductor industry by combining academic excellence with real-world project experience.
 
 ---
@@ -32,11 +32,14 @@ Specializing in **ASIC Design and Verification**, I aim to make a meaningful imp
 ### 📚 Academic Projects
 
 **🔐 Password Locking System**  
-Designed using Verilog HDL with FSM-based control logic and functional simulation.
+Project Description:
+This Verilog project implements a password lock system with secure login and password management features. It allows a user to log in using a default or master password, with access control and an alarm trigger after multiple failed attempts. The system supports password change functionality upon successful authentication. A separate display module shows the remaining login attempts in real-time. The design is tested using a comprehensive testbench covering all functional scenarios.
+
 
 **📡 APB Protocol Interfacing**  
-Developed in Verilog/SystemVerilog to model protocol-level communication.  
-🏅 _Selected among the top 15 teams out of 120 based on performance and design quality._
+APB Protocol Verification with Custom APB Slave (3 Registers)
+This project implements and verifies an APB-compliant slave with 3 addressable registers using Verilog. The testbench covers all APB protocol phases (IDLE, SETUP, ACCESS) and validates read/write operations across all slave addresses. Features include signal-level monitoring, detailed state logging, invalid access checks, and reset behavior testing. Suitable for learning APB protocol or integrating into SoC subsystems.
+🏅 _Selected among the top 19 teams out of 120 based on performance and design quality._
 
 ---
 
