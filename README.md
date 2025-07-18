@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Suresh Gadi</h1>
-<h3 align="center">Electronics and Communication Engineering Student | ASIC Design & Verification Enthusiast</h3>
+<h1 align="center">👋 Hello, I'm Suresh Gadi</h1>
+<h3 align="center">Electronics & Communication Engineering | ASIC Design & Verification Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suresh-gadi-6201a0293/" target="_blank">
@@ -9,99 +9,96 @@
 
 ---
 
-### 👨‍🎓 About Me
+### 🧑‍🎓 About Me
 
-**I'm a pre-final year undergraduate in Electronics and Communication Engineering at Aditya University with a CGPA of 9.24.**  
-**My primary interest lies in Design Verification, where I focus on ensuring functional correctness and reliability of digital designs.**  
-**I aim to contribute meaningfully to the semiconductor industry by combining strong academic foundations with practical verification project experience.**
+I'm a **pre-final year Electronics and Communication Engineering undergraduate at Aditya University**, maintaining a **CGPA of 9.24**. I’m deeply passionate about **ASIC Design & Verification**, particularly focused on ensuring the **functional correctness and reliability** of digital hardware.
 
+My goal is to bridge the gap between academic learning and industry-grade solutions in **semiconductor design**, contributing meaningfully to **functional verification workflows, RTL development**, and **EDA tool-based optimization**.
 
 ---
 
-### 🛠️ Technical Skills
+### ⚙️ Technical Proficiency
 
-**Programming Languages & HDLs:**  
+**Languages & HDLs**  
 - C, Python, JavaScript  
 - Verilog HDL, SystemVerilog
 
-**EDA Tools:**  
-- Cadence Xcelium, Virtuoso, Genus  
-- Xilinx Vivado, ModelSim  
-- Quartus Prime, Proteus, MATLAB
+**EDA Tools & Platforms**  
+- Cadence Xcelium, Genus, Virtuoso  
+- Xilinx Vivado, ModelSim, Quartus Prime  
+- Proteus, MATLAB
 
----
-
-### 📚 Academic Projects
-
----
-
-### 🔐 **Password Locking System**
-
-#### About the Project  
-This Verilog project implements a **secure password lock system** with user authentication, password management, and alarm features.  
-Users can log in using a default or master password, and after multiple failed attempts, the system triggers an **alarm** for security.  
-It supports **password changes** after successful login and includes a **real-time display** showing remaining login attempts.
-
-#### Features  
-- Secure login with default/master password  
-- Alarm trigger after multiple failed attempts  
-- Password change functionality post-authentication  
-- Real-time display of remaining login attempts  
-- Fully tested using a Verilog testbench  
-
----
-
-### 📡 **APB Protocol Verification – 3-Register Slave Design**
-
-#### About the Project  
-This project demonstrates the **verification of an APB (Advanced Peripheral Bus) slave** with three addressable registers.  
-It tests full protocol compliance, including **IDLE**, **SETUP**, and **ACCESS** phases for both **read and write** operations.  
-Signal-level visibility and **reset behavior** are validated to ensure robust functionality.
-
-#### Features  
-- Write and read operations for 3 slave registers  
-- Full APB protocol phase coverage: IDLE → SETUP → ACCESS  
-- Displays all APB interface signals clearly  
-- Handles invalid access, mismatch detection, and reset testing  
-- Modular testbench with structured output  
-- _Top 19 out of 120 teams based on design and performance_
-
----
-
-
-### 💼 Professional Interests
-
-- RTL Design and Implementation  
-- Digital Logic & Architecture  
+**Key Areas of Interest**  
+- RTL Design & Simulation  
 - Functional & Formal Verification  
+- SoC Integration and Verification  
 - ASIC Design Flow  
-- FPGA Prototyping  
-- EDA Tool-driven Design & Optimization
+- FPGA-Based Prototyping  
+- Clock Domain Crossing (CDC) & Power Aware Verification
 
 ---
 
-### 🎯 Hobbies
+### 📚 Featured Projects
 
-- Exploring VLSI & Semiconductor Trends  
-- Reading Technical Documentation  
-- Music for Relaxation & Focus
+#### 🔐 Password Locking System (Verilog)
+
+A robust **digital password locking mechanism** implemented in Verilog, with built-in authentication, alarm logic, and password management.  
+✅ *Tested extensively using a dedicated Verilog testbench.*
+
+**Key Features:**
+- Secure login with default/master credentials  
+- Alarm activation after failed attempts  
+- Password change post-authentication  
+- Real-time feedback on remaining login tries  
+- Synchronous design methodology  
+
+---
+
+#### 📡 APB Protocol Verification – 3-Register Slave
+
+A comprehensive **SystemVerilog-based verification environment** for an APB-compliant slave with three internal registers.
+
+**Key Highlights:**
+- Full **IDLE → SETUP → ACCESS** phase handling  
+- Read/write support for all addressable registers  
+- Validates reset, invalid accesses, and timing correctness  
+- Modular, reusable testbench structure  
+- Ranked **Top 19 out of 120 teams** based on verification coverage and testbench efficiency  
+
+---
+
+### 💼 Professional Aspirations
+
+- ASIC Front-end Design & Verification  
+- RTL Coding and Testbench Development  
+- Functional & Formal Verification using UVM  
+- FPGA-Based Validation  
+- Design Simulation & Debugging with Industry-Standard Tools  
+- VLSI Design Methodologies (DFT, STA, Low-Power Design)
+
+---
+
+### 🎵 Hobbies & Interests
+
+- Exploring next-gen semiconductor trends  
+- Reading technical whitepapers and datasheets  
+- Listening to instrumental music for focus  
+- Learning through community-based open-source VLSI projects
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=radical" alt="Suresh Gadi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=suresh2327&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">Thank you for visiting my profile! 🚀</p>
+<p align="center"><strong>Thanks for visiting my GitHub! Let's connect and innovate in silicon! 🚀</strong></p>
