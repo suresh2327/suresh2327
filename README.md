@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/suresh-gadi-6201a0293/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
+  <a href="mailto:sureshgadi68@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat">
+  </a>
 </p>
 
 ---
@@ -72,7 +75,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 ---
 
