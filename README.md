@@ -61,18 +61,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- GitHub Streak Stats -->
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=suresh2327&theme=radical" alt="GitHub Streak" />
-
-  <!-- GitHub Top Languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total_Contributions-✍️%201234-blueviolet?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Current_Streak-🔥%2024_days-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Longest_Streak-🚀%2053_days-success?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Repositories-📦%2018-lightgrey?style=for-the-badge&logo=code" />
 </p>
-
 
 
 
