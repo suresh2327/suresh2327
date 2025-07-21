@@ -73,10 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Contribution Snake Animation (Optional Visual Enhancement) -->
-<p align="center">
-  <img src="https://github.com/suresh2327/suresh2327/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
 
 
 ---
