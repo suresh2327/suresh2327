@@ -61,12 +61,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=radical" />
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=suresh2327&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=suresh2327&theme=radical" alt="GitHub Streak" />
+
+  <!-- GitHub Top Languages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<!-- Contribution Snake Animation (Optional Visual Enhancement) -->
+<p align="center">
+  <img src="https://github.com/suresh2327/suresh2327/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ---
 
