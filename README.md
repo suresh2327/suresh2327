@@ -59,21 +59,13 @@
   
 ---
 
-### 📊 GitHub Stats
+<div align="center"> <!-- GitHub Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&hide_title=false&rank_icon=github" alt="suresh2327 GitHub Stats" width="48%" />
 
-<p align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=suresh2327&theme=gruvbox&hide_border=true&background=0D1117&dates=FAFAFA&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="suresh2327 GitHub Streak" width="48%" />
 
-  <!-- GitHub Streak Stats -->
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=suresh2327&theme=radical" alt="GitHub Streak" />
-
-  <!-- GitHub Top Languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+<!-- Top Languages --> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="60%" /> </div>
 ---
 
 <p align="center"><strong>Design. Verify. Optimize. Repeat. 🚀</strong></p>
