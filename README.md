@@ -18,7 +18,8 @@
 
 ### 💻 Programming Languages  
 - C  
-- Python  
+- Python
+- java script  
  
 ### ⚡ Hardware Description Languages  
 - Verilog  
