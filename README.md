@@ -74,6 +74,7 @@
 
 ![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=suresh2327&theme=tokyonight&border_radius=5)  
 
 ---
 
