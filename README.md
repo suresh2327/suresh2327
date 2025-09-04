@@ -19,8 +19,7 @@
 ### 💻 Programming Languages  
 - C  
 - Python  
-- C++ (through IIT Bombay certification)  
-
+ 
 ### ⚡ Hardware Description Languages  
 - Verilog  
 - SystemVerilog  
@@ -35,7 +34,7 @@
 
 ### 🧰 Tools & Platforms  
 - MATLAB, PSpice, Proteus (circuit design)  
-- Xilinx Vivado (FPGA design)  
+- Xilinx Vivado  
 - Cadence Tools → Xcelium, Genus *(still exploring design & verification flows)*  
 - Git & GitHub  
 
