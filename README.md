@@ -75,8 +75,15 @@
 
 <div align="center">
 
-![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=tokyonight)  
+### 📊 GitHub Stats
+
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=suresh2327&theme=tokyonight)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh2327&theme=tokyonight)
 
 
 </div>
