@@ -82,6 +82,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=tokyonight)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=suresh2327&theme=tokyonight)
+ <a href="https://github.com/suresh2327" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh2327&theme=tokyonight)
 
