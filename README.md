@@ -1,6 +1,5 @@
-<p align="center">
+
  # 👋 Hi, I'm Suresh  
-</p>
 
 🎓 **B.Tech 3rd Year Student** – *Electronics & Communication Engineering (ECE)*  
 📊 **CGPA:** `9.12 / 10`  
