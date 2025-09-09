@@ -98,7 +98,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=suresh2327&color=blue&style=flat-square" alt="Profile Views" />
 </p> 
 
 ---
