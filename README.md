@@ -115,9 +115,10 @@
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="mailto:ggsuresh61@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ggsuresh61@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   <a href="https://www.linkedin.com/in/suresh-gadi-6201a0293/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
