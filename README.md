@@ -56,31 +56,27 @@
 
 ### 🧩 VLSI Design & Verification Intern — *Technical Hub Pvt. Ltd.*  
 📅 *May 2025 – June 2025*  
-- Designed and implemented digital circuits using **Verilog HDL**  
-- Applied **SystemVerilog** for module verification  
-- Improved circuit timing, area, and power metrics  
-- Gained exposure to **Cadence Xcelium & Innovus**
-
-### ⚙️ VLSI Internship Training — *SkillDzire Technologies Pvt. Ltd.*  
-📅 *June 2025 – July 2025*  
-- RTL coding with **Verilog/SystemVerilog**  
-- Worked on **UART, SPI, I2C, APB, AXI** protocols  
-- Verified digital modules and debugged RTL designs  
-- Simulated using **Vivado**, **MATLAB**, and **Cadence tools**
-
+- Designed and implemented **digital circuits using Verilog HDL**  
+- Learned **SystemVerilog** from scratch for **module verification**  
+- Created **testbenches** and performed **functional verification**
+- Acquired strong understanding of **protocols** like **AXI, APB, UART, I2C, and SPI** 
+- Optimized **timing, area, and power** of RTL designs  
+- Worked with **Cadence Xcelium & Innovus** for simulation and implementation
+  
 ---
 
 ## 🚀 Projects  
 
 ### 🔹 AXI to APB Bridge Design *(Aug 2025)*  
-- Developed a bridge between **AXI** and **APB** protocols  
-- Verified protocol handshaking and data transfer using testbenches  
-- Strengthened understanding of **AMBA** bus architecture  
+- Designed and implemented a **bridge interface** between **AXI** and **APB** protocols  
+- Developed **SystemVerilog testbenches** to verify handshaking, data transfer, and timing synchronization  
+- Strengthened understanding of **AMBA bus architecture** and **inter-protocol communication**  
 
 ### 🔹 APB Protocol Interfacing *(Jun 2025)*  
-- Implemented **APB bus protocol** with master–slave communication  
-- Verified **Hold, Setup, and Active** states  
-- Designed testbench modules for read/write verification  
+- Implemented **APB bus protocol** for efficient **master–slave communication**  
+- Verified **read/write transactions**, **Hold**, **Setup**, and **Active** states using **SystemVerilog testbenches**  
+- Enhanced skills in **protocol-level verification** and **transaction-based design**  
+
 
 ---
 
