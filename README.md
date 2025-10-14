@@ -5,22 +5,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Suresh Gadi</span></h1>
 
 <h3 align="center">🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE | Aditya University</h3>
-
-
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ggsuresh61@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-  </a>
-  <a href="https://www.linkedin.com/in/suresh-gadi-6201a0293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/suresh2327">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Aditya+University;VLSI+Design+%7C+RTL+Coding+%7C+Verification;SystemVerilog+%7C+Verilog+SystemVerilog+%7C+Digital+Systems; Exploring+Protocol+and+Verification+Flows" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🧠 About Me  
