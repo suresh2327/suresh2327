@@ -63,7 +63,7 @@
 - Created **testbenches** and performed **functional verification**
 - Acquired strong understanding of **protocols** like **AXI, APB, UART, I2C, and SPI** 
 - Optimized **timing, area, and power** of RTL designs  
-- Worked with **Cadence Xcelium & Innovus** for simulation and implementation
+- Worked with **Cadence Xcelium ,Genus & Innovus** for simulation and implementation
   
 ---
 
