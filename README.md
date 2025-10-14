@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Suresh Gadi</span></h1>
 
 <h3 align="center">🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE | Aditya University</h3>
----
+
 
 <p align="center">
   <a href="mailto:ggsuresh61@gmail.com">
