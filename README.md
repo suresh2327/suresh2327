@@ -104,14 +104,6 @@
 
 ---
 
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh2327&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Connect with Me  
 
 <p align="center">
