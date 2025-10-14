@@ -6,7 +6,7 @@
 
 <h3 align="center">🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE | Aditya University</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Aditya+University;VLSI+Design+%7C+RTL+Coding+%7C+Verification;SystemVerilog+%7C+Verilog+SystemVerilog+%7C+Digital+Systems; Exploring+Protocol+and+Verification+Flows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Aditya+University;VLSI+Design+%7C+RTL+Coding+%7C+Verification;SystemVerilog+%7C+Verilog+SystemVerilog+%7C+Digital+Systems;+Exploring+Protocol+and+Verification+Flows" alt="Typing SVG" />
 </p>
 ---
 
