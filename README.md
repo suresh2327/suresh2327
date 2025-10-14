@@ -25,9 +25,9 @@
 
 🎓 **B.Tech ECE** student at **Aditya University** (CGPA: 9.12)  
 💡 Passionate about **VLSI Design, Verification, and Digital IC Design**  
-🧩 Skilled in **Verilog, SystemVerilog, and EDA Tools** (Cadence, Xilinx Vivado, MATLAB)  
+🧩 Skilled in **Verilog, SystemVerilog, and EDA Tools** (**Cadence [Xcelium, Genus, Innovus]**, **Xilinx Vivado**, **MATLAB**)  
 ⚙️ Focused on **power-efficient and high-performance chip design**  
-🌱 Exploring **UVM methodology**, **Low-Power VLSI**, and **FPGA-based prototyping**
+🌱 Exploring **UVM methodology**, **SystemVerilog** and **Low-Power VLSI**
 
 > “Design today, verify tomorrow — innovate forever.”
 
