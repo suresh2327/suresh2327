@@ -4,29 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Suresh Gadi</span></h1>
 
-<!-- Animated Scrolling Title -->
-<h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE | Aditya University
-  </marquee>
-</h3>
-<h3 align="center">
-  <div style="width: 100%; overflow: hidden; white-space: nowrap;">
-    <span style="display: inline-block; animation: moveText 15s linear infinite;">
-      🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE | Aditya University
-    </span>
-  </div>
-
-  <style>
-    @keyframes moveText {
-      0% { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
-    }
-  </style>
-</h3>
-
-
-
+<h3 align="center">🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE | Aditya University</h3>
 ---
 
 <p align="center">
