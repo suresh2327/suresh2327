@@ -11,7 +11,7 @@
 
 ## 🧠 About Me  
 
-🎓 **B.Tech ECE** student at **Aditya University** (CGPA: 9.12)  
+🎓 **B.Tech ECE** student at **Aditya University** (**CGPA: 9.20**)  
 💡 Passionate about **VLSI Design, Verification, and Digital IC Design**  
 🧩 Skilled in **Verilog, SystemVerilog, and EDA Tools** (**Cadence [Xcelium, Genus, Innovus]**, **Xilinx Vivado**, **MATLAB**)  
 ⚙️ Focused on **power-efficient and high-performance chip design**  
