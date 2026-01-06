@@ -27,17 +27,17 @@
 
 ### Programming Languages & HDLs
 - C  
-- Python  
+- Python
+- JavaScript 
 - Verilog  
-- SystemVerilog  
-- JavaScript  
+- SystemVerilog
+- UVM
+ 
 
 ### EDA Tools & Design Software
 - Cadence (Xcelium, Genus, Innovus)  
 - Xilinx Vivado  
-- MATLAB  
-- Keil  
-- Proteus  
+- MATLAB    
 - PSpice  
 
 ---
@@ -72,23 +72,25 @@
 
 ## 🏅 Certifications  
 
-🎓 **Cadence:** Semiconductor 101 • Digital IC Design • Verilog • SystemVerilog  
+🎓 **Cadence:** Semiconductor 101 • Digital IC Design • Verilog • SystemVerilog • Front End Digital Design and Verification Language and Methodology Domain Certification  
+🎓 **GeeksforGeeks:** Embedded Systems 
 🎓 **Cisco:** C Programming • IT Specialist (HTML/CSS)  
 🎓 **IIT Bombay:** Python • C++  
-🎓 **GeeksforGeeks:** Embedded Systems  
+ 
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh2327&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=suresh2327&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=suresh2327&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh2327&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
