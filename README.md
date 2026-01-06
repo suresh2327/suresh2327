@@ -23,20 +23,22 @@
 
 ## ⚙️ Tech Stack  
 
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FFC107?style=for-the-badge)
+## ⚙️ Technical Skills
 
-### 🧰 Tools & EDA Frameworks  
-![Cadence](https://img.shields.io/badge/Cadence-CC0000?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-00A1E4?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
-![Keil](https://img.shields.io/badge/Keil-00BFFF?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-2D2E2E?style=for-the-badge)
-![PSpice](https://img.shields.io/badge/PSpice-FF4B00?style=for-the-badge)
+### Programming Languages & HDLs
+- C  
+- Python  
+- Verilog  
+- SystemVerilog  
+- JavaScript  
+
+### EDA Tools & Design Software
+- Cadence (Xcelium, Genus, Innovus)  
+- Xilinx Vivado  
+- MATLAB  
+- Keil  
+- Proteus  
+- PSpice  
 
 ---
 
