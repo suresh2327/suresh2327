@@ -21,8 +21,6 @@
 
 ---
 
-## ⚙️ Tech Stack  
-
 ## ⚙️ Technical Skills
 
 ### Programming Languages & HDLs
