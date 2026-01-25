@@ -8,11 +8,10 @@ Aditya University  **CGPA 9.20**
 
 ## About Me
 
-I am a B.Tech ECE student with a strong interest in **VLSI Design and Verification**.  
-My primary focus areas include **RTL design**, **functional verification**, and **digital IC design**.
+I am a B.Tech ECE student with a strong interest in VLSI Design and Verification.
+My core focus areas include RTL design, functional verification, and digital IC design.
 
-I am experienced in **Digital Electronics, Verilog and SystemVerilog**, familiar with industry-standard **EDA tools**, and actively working towards mastering **verification methodologies and AMBA protocols**.
-
+I have a solid foundation in Digital Electronics and hands-on experience with Verilog and SystemVerilog for design and verification. I am familiar with industry-standard EDA tools and have working knowledge of UVM concepts and AMBA protocols such as AXI and APB, with a continuous focus on strengthening my verification skills.
 ---
 
 ## Technical Skills
