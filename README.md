@@ -2,7 +2,7 @@
 
 B.Tech (Electronics and Communication Engineering)  
 Aspiring VLSI Design & Verification Engineer  
-Aditya University
+Aditya University  **CGPA 9.20**
 
 ---
 
