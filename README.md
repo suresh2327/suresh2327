@@ -89,13 +89,6 @@ I have a solid foundation in **Digital Electronics** and hands-on experience wit
 
 ---
 
-## Education
-
-**B.Tech – Electronics and Communication Engineering**  
-Aditya University  
-CGPA: 9.20
-
----
 
 ## Contact
 
